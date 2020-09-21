@@ -19,4 +19,9 @@ export default {
   color: #2c3e50;
   margin-top: 60px;
 }
+
+body {
+  background: url('./assets/IMG_5865.jpg');
+  background-size: cover;
+}
 </style>
