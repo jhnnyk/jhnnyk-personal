@@ -1,7 +1,9 @@
 <template>
   <div id="app">
     <PageHeader />
-    <router-view></router-view>
+    <main>
+      <router-view></router-view>
+    </main>
   </div>
 </template>
 
@@ -21,15 +23,27 @@ export default {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  text-align: center;
   color: #2c3e50;
-  margin-top: 60px;
-  background: white;
-  opacity: 0.5;
 }
 
 html {
   background: url('./assets/IMG_5865.jpg') no-repeat center center fixed;
   background-size: cover;
+}
+
+body {
+  margin: 0;
+}
+
+main {
+  margin: 20px 15%;
+  padding: 30px;
+  border-radius: 20px;
+  background: white;
+  opacity: 0.8;
+}
+
+h2 {
+  color: #2c3e50;
 }
 </style>
