@@ -51,6 +51,15 @@ h1 {
   text-align: center;
 }
 
+a {
+  color: rgb(60, 85, 150);
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
 .content img,
 .blog-post img {
   width: 100%;
