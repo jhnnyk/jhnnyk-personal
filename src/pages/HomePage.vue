@@ -1,6 +1,6 @@
 <template>
   <div class="homepage">
-    <h2>Home</h2>
+    <h1>Home</h1>
     <p>Welcome to the personal website of John Knotts.</p>
   </div>
 </template>

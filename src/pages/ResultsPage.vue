@@ -1,6 +1,6 @@
 <template>
   <div class="results">
-    <h2>Results</h2>
+    <h1>Results</h1>
     <h3>2020</h3>
     <ul>
       <li>August 26 - Ruby Creek Traverse FKT - 3:01:14</li>

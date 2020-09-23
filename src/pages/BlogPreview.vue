@@ -1,6 +1,6 @@
 <template>
   <div class="blogpreview">
-    <h2>Blog</h2>
+    <h1>Blog</h1>
     <section v-for="(post, index) in posts" :key="index">
       <h3>{{ post.title }}</h3>
       <p>{{ post.publishDate.toDate().toDateString() }}</p>

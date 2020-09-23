@@ -1,6 +1,6 @@
 <template>
   <header>
-    <h1>jhnnyk.com</h1>
+    <h1 class="title">jhnnyk.com</h1>
     <nav>
       <router-link :to="{ name: 'HomePage' }">Home</router-link>
       <router-link :to="{ name: 'BlogPreview' }">Blog</router-link>
@@ -23,7 +23,7 @@ header {
   padding: 20px;
 }
 
-h1 {
+h1.title {
   color: white;
   margin: 0;
   padding: 0;
