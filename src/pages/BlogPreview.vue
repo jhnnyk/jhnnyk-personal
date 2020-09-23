@@ -3,6 +3,8 @@
     <h2>Blog</h2>
     <section v-for="(post, index) in posts" :key="index">
       <h3>{{ post.title }}</h3>
+      <p>{{ post.publishDate.toDate().toDateString() }}</p>
+      <div class="content" v-html="post.content"></div>
     </section>
   </div>
 </template>
@@ -29,3 +31,9 @@ export default {
   },
 };
 </script>
+
+<style>
+.content img {
+  width: 100%;
+}
+</style>

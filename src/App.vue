@@ -39,8 +39,7 @@ main {
   margin: 20px 15%;
   padding: 30px;
   border-radius: 20px;
-  background: white;
-  opacity: 0.8;
+  background: rgba(255, 255, 255, 0.8);
 }
 
 h2 {
