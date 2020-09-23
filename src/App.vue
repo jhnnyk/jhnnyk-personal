@@ -42,8 +42,16 @@ main {
   background: rgba(255, 255, 255, 0.8);
 }
 
+h1,
+h3 {
+  margin: 0;
+}
+
 h1 {
   text-align: center;
-  margin: 0;
+}
+
+.content img {
+  width: 100%;
 }
 </style>
