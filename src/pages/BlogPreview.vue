@@ -4,7 +4,7 @@
     <section v-for="(post, index) in posts" :key="index">
       <div class="post-preview-header">
         <h3>
-          {{ post.title }}
+          <router-link :to="'/blog/' + post.slug">{{ post.title }}</router-link>
         </h3>
         <span class="date">
           {{
@@ -17,7 +17,10 @@
         </span>
       </div>
 
-      <p>{{ post.teaser }} ...read more</p>
+      <p>
+        {{ post.teaser }}
+        <router-link :to="'/blog/' + post.slug">...read more</router-link>
+      </p>
       <!-- <div class="content" v-html="post.content"></div> -->
     </section>
   </div>

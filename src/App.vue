@@ -51,7 +51,8 @@ h1 {
   text-align: center;
 }
 
-.content img {
+.content img,
+.blog-post img {
   width: 100%;
 }
 </style>
