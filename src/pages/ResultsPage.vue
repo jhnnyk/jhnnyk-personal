@@ -4,14 +4,18 @@
     <h3>2020</h3>
     <ul>
       <li>August 26 - Ruby Creek Traverse FKT - 3:01:14</li>
+      <li><s>July 17 - Hardrock 100</s> cancelled due to coronavirus</li>
       <li>
         May 31 - Lost Creek Wilderness South Loops (Big Loop) FKT - 8:01:23
       </li>
+      <li><s>April 25 - Zane Grey 100k</s> cancelled due to coronavirus</li>
     </ul>
     <h3>2019</h3>
     <ul>
       <li><strong>August 23 - Divide 100k - 1st - 12:59:20</strong></li>
-      <li><s>July 19 - Hardrock 100</s> cancelled due to snow</li>
+      <li>
+        <s>July 19 - Hardrock 100</s> cancelled due to snow/avalanche debris
+      </li>
       <li>
         <strong
           >June 29 - Western States 100 - 41st Overall, 29th Male -
@@ -27,7 +31,7 @@
         <!-- TODO -->
         <strong
           >Jan 3-Dec 24 -
-          <a href="https://www.jhnnyk.com/posts/10"
+          <a href="/blog/100-mountains-in-2018"
             >100 Different Mountains</a
           ></strong
         >
@@ -100,3 +104,11 @@ export default {
   name: 'ResultsPage',
 };
 </script>
+
+<style>
+.results ul {
+  border-bottom: 1px dashed gray;
+  padding-bottom: 20px;
+  margin-top: 0;
+}
+</style>
