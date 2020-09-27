@@ -3,6 +3,7 @@
     <h1>Results</h1>
     <h3>2020</h3>
     <ul>
+      <li>September 26 - Cub Creek Trail FKT - 8:17:41</li>
       <li>August 26 - Ruby Creek Traverse FKT - 3:01:14</li>
       <li><s>July 17 - Hardrock 100</s> cancelled due to coronavirus</li>
       <li>
