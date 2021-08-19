@@ -3,52 +3,44 @@
     <h1>Results</h1>
     <h3>2021</h3>
     <ul>
+      <li>Jan 1 - June 30 - Suffer Better's 14ers Challenge - <strong>1st</strong> - 1419 miles, 230198 ft of vert</li>
       <li>
-        <strong
-          >June 27 -
+        June 27 -
           <a
             href="http://racingunderground.racetecresults.com/results.aspx?CId=16436&RId=475&EId=3"
-            >Mt. Evans Round Trip - 1st</a
-          >
-          - 4:10:22</strong
-        >
+            >Mt. Evans Round Trip</a> - <strong>1st</strong> - 4:10:22
       </li>
     </ul>
     <h3>2020</h3>
     <ul>
-      <li>September 26 - Cub Creek Trail FKT - 8:17:41</li>
-      <li>August 26 - Ruby Creek Traverse FKT - 3:01:14</li>
-      <li><s>July 17 - Hardrock 100</s> cancelled due to coronavirus</li>
+      <li>September 26 - Cub Creek Trail <strong>FKT</strong> - 8:17:41</li>
+      <li>August 26 - Ruby Creek Traverse <strong>FKT</strong> - 3:01:14</li>
+      <li><s>July 17 - Hardrock 100</s> <em>cancelled due to coronavirus pandemic</em></li>
       <li>
-        May 31 - Lost Creek Wilderness South Loops (Big Loop) FKT - 8:01:23
+        May 31 - Lost Creek Wilderness South Loops (Big Loop) <strong>FKT</strong> - 8:01:23
       </li>
-      <li><s>April 25 - Zane Grey 100k</s> cancelled due to coronavirus</li>
+      <li><s>April 25 - Zane Grey 100k</s> <em>cancelled due to coronavirus pandemic</em></li>
     </ul>
     <h3>2019</h3>
     <ul>
-      <li><strong>August 23 - Divide 100k - 1st - 12:59:20</strong></li>
+      <li>August 23 - Divide 100k - <strong>1st</strong> - 12:59:20</li>
       <li>
-        <s>July 19 - Hardrock 100</s> cancelled due to snow/avalanche debris
+        <s>July 19 - Hardrock 100</s> <em>cancelled due to snow/avalanche debris</em>
       </li>
       <li>
-        <strong
-          >June 29 - Western States 100 - 41st Overall, 29th Male -
-          20:49:15</strong
-        >
+        June 29 - <strong>Western States 100</strong> - 41st Overall, 29th Male -
+          20:49:15
       </li>
-      <li><strong>March 9 - Running Up for Air Colorado - 1st</strong></li>
+      <li>March 9 - Running Up for Air Colorado - <strong>1st</strong></li>
     </ul>
 
     <h3>2018</h3>
     <ul>
       <li>
-        <!-- TODO -->
-        <strong
-          >Jan 3-Dec 24 -
+        Jan 3-Dec 24 -
           <a href="/blog/100-mountains-in-2018"
-            >100 Different Mountains</a
-          ></strong
-        >
+            ><strong>100 Different Mountains</strong></a
+          >
       </li>
       <li>September 14 - Run Rabbit Run 100: 23rd (hares) - 26:33:28</li>
       <li>June 23 - San Juan Solstice 50: 27th - 10:47:22</li>
@@ -57,8 +49,8 @@
 
     <h3>2017</h3>
     <ul>
-      <li><strong>September 1 - Nolans 14: 57:55:00</strong></li>
-      <li><strong>July 14 - Hardrock 100: 35th - 34:14:58</strong></li>
+      <li>September 1-3 - <strong>Nolans 14</strong> - 57:55:00</li>
+      <li>July 14-15 - <strong>Hardrock 100</strong> - 35th - 34:14:58</li>
     </ul>
 
     <h3>2016</h3>
